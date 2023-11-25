@@ -1,0 +1,15 @@
+[
+    {"query": "What time is it?", "intent":"time.check"},
+    {"query": "can you tell me the current time?", "intent":"time.check"},
+    {"query": "What's the time", "intent":"time.check"},
+    {"query": "yo bruv, what time is it?", "intent":"time.check"},
+    {"query": "tell me the time", "intent":"time.check"},
+    {"query": "catcha later", "intent":"greetings.bye"},
+    {"query": "bye bye bye", "intent":"greetings.bye"},
+    {"query": "see ya", "intent":"greetings.bye"},
+    {"query": "bye for now", "intent":"greetings.bye"},
+    {"query": "goodbye", "intent":"greetings.bye"},
+    {"query": "heyy", "intent":"greetings.hello"},
+    {"query": "hi", "intent":"greetings.hello"},
+    {"query": "aloha", "intent":"greetings.hello"}
+]
